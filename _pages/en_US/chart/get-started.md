@@ -9,9 +9,9 @@ sidebar:
 
 ## Required Reading
 
-Different devices will require different steps to jailbreak your iOS device. This page will help you find where to start.
+Different Operating Systems will require different steps to setup your build enviorment. This page will help you find where to start.
 
-Please select what kind of device you have below.
+Please select what operating system you have below.
 
 <table class="version_table">
   <colgroup>
@@ -21,16 +21,14 @@ Please select what kind of device you have below.
   </colgroup>
   <thead>
     <tr>
-      <th>iPhone</th>
-      <th>iPad</th>
-      <th>iPod</th>
+      <th>Windows (WSL)</th>
+      <th>macOS</th>
+      <th>Linux</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><a href="device-selection-(iphone)"><img src="/assets/images/iphone12pro.png" alt="" width="50%"></a></td>
-      <td><a href="device-selection-(ipad)"><img src="/assets/images/iPad8,9.png" alt="" width="50%"></a></td>
-      <td><a href="device-selection-(ipod)"><img src="/assets/images/iPod9,1.png" alt="" width="50%"></a></td>
-    </tr>
+      <td><a href="device-selection-windows"><img src="/assets/images/iphone12pro.png" alt="" width="50%"></a></td>
+      <td><a href="device-selection-macos"><img src="/assets/images/iPad8,9.png" alt="" width="50%"></a></td>
+      <td><a href="device-selection-linux"><img src="/assets/images/iPod9,1.png" alt="" width="50%"></a></td>
   </tbody>
 </table>
