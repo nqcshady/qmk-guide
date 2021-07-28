@@ -13,6 +13,8 @@ Different Operating Systems will require different steps to setup your build env
 
 Please select what operating system you have below.
 
+Note that currently at this time only WSL has a guide written for enviorment prep.
+
 <table class="version_table">
   <colgroup>
     <col span="1" style="width: 33%;">
@@ -21,14 +23,20 @@ Please select what operating system you have below.
   </colgroup>
   <thead>
     <tr>
-      <th>Windows (WSL)</th>
-      <th>macOS</th>
-      <th>Linux</th>
-    </tr>
+      <a href="device-selection-windows">
+  <div>
+     Windows (WSL)
+  </div>
+</a>
+     <a href="device-selection-macos">
+  <div>
+     macOS
+  </div>
+</a>
+      <a href="device-selection-linux">
+  <div>
+     Linux
+  </div>
+</a>
   </thead>
-  <tbody>
-      <td><a href="device-selection-windows"><img src="/assets/images/iphone12pro.png" alt="" width="50%"></a></td>
-      <td><a href="device-selection-macos"><img src="/assets/images/iPad8,9.png" alt="" width="50%"></a></td>
-      <td><a href="device-selection-linux"><img src="/assets/images/iPod9,1.png" alt="" width="50%"></a></td>
-  </tbody>
 </table>
