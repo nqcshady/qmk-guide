@@ -27,8 +27,8 @@ Please select what operating system you have below.
     </tr>
   </thead>
   <tbody>
-      <td><a href="device-selection-windows"><img src="qmk-guide/assets/images/iphone12pro.png" alt="" width="50%"></a></td>
-      <td><a href="device-selection-macos"><img src="qmk-guide/assets/images/iPad8,9.png" alt="" width="50%"></a></td>
-      <td><a href="device-selection-linux"><img src="qmk-guide/assets/images/iPod9,1.png" alt="" width="50%"></a></td>
+      <td><a href="device-selection-windows"><img src="/assets/images/iphone12pro.png" alt="" width="50%"></a></td>
+      <td><a href="device-selection-macos"><img src="/assets/images/iPad8,9.png" alt="" width="50%"></a></td>
+      <td><a href="device-selection-linux"><img src="/assets/images/iPod9,1.png" alt="" width="50%"></a></td>
   </tbody>
 </table>
