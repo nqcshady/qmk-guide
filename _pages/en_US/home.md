@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Qmk Guide
+title: QMK Guide
 excerpt: "A complete QMK Installation guide, from stock to RGB & 1000hz."
 permalink: /
 header:
