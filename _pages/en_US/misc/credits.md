@@ -26,5 +26,3 @@ sidebar:
     </div>
   </div>
 </div>
-
-</div>
