@@ -15,18 +15,4 @@ Please select what operating system you have below.
 
 Note that currently at this time only WSL has a guide written for enviorment prep.
 
-  <a href="chart/device-selection-windows">
-  <div>
-     Windows (WSL)
-  </div>
-</a>
-     <a href="chart/device-selection-macos">
-  <div>
-     macOS
-  </div>
-</a>
-      <a href="chart/device-selection-linux">
-  <div>
-     Linux
-  </div>
-</a>
+  <a href="device-selection-windows.md">Windows (WSL)</a>
