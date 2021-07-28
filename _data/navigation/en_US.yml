@@ -4,20 +4,7 @@ main:
     url: faq
   - title: Troubleshooting
     url: troubleshooting
-  - title: Recommended Repos
-    url: recommended-repos
-  - title: Saving Blobs
-    url: saving-blobs
-  - title: FutureRestore
-    url: futurerestore
-  - title: Resigning Apps
-    url: resigning-apps
-  - title: Jailbreak Detection
-    url: blocking-jailbreak-detection
-  - title: Jailbreak Types
-    url: types-of-jailbreak
-  - title: Donations
-    url: donations
+ 
   - title: Credits
     url: credits
 bottom:
@@ -32,78 +19,9 @@ footer:
   - label: Credits
     url: credits
     icon: fas fa-fw fa-users
-
 # Sidebars
 
 sidebar:
-  - title: "Package Managers"
-    children:
-      - title: "An explanation"
-        url: /package-managers
-      - title: "Using Sileo"
-        url: /using-sileo
-      - title: "Using Cydia"
-        url: /using-cydia
-  - title: "Guides"
-    children:
-      - title: "Recommended Repos"
-        url: /recommended-repos
-      - title: "Saving Blobs"
-        url: /saving-blobs
-      - title: "Restoring to 14.3"
-        url: /restoring-to-14-3
-      - title: "Resigning Apps"
-        url: /resigning-apps
-      - title: "Jailbreak Detection"
-        url: /blocking-jailbreak-detection
-  - title: "Support"
-    children:
-      - title: "Troubleshooting"
-        url: /troubleshooting
-      - title: "FAQ"
-        url: /faq
-      - title: "Types of Jailbreak"
-        url: /types-of-jailbreak
-      - title: "Discord"
-        url: https://discord.gg/pRdUuCZYkY
-  - title: "Miscellaneous"
-    children:
-      - title: "Credits"
-        url: /credits
-      - title: "Site Navigation"
-        url: /site-navigation
-
-ios1314:
-  - title: "Jailbreaks"
-    children:
-      - title: "Installing Taurine"
-        url: /installing-taurine
-      - title: "Installing Odyssey"
-        url: /installing-odyssey
-      - title: "Installing Odysseyra1n"
-        url: /installing-odysseyra1n
-      - title: "Using Odysseyn1x"
-        url: /using-odysseyn1x
-  - title: "Package Managers"
-    children:
-      - title: "An explanation"
-        url: /package-managers
-      - title: "Using Sileo"
-        url: /using-sileo
-      - title: "Using Cydia"
-        url: /using-cydia
-  - title: "Guides"
-    children:
-      - title: "Recommended Repos"
-        url: /recommended-repos
-      - title: "Saving Blobs"
-        url: /saving-blobs
-      - title: "Restoring to 14.3"
-        url: /restoring-to-14-3
-      - title: "Resigning Apps"
-        url: /resigning-apps
-      - title: "Jailbreak Detection"
-        url: /blocking-jailbreak-detection
   - title: "Support"
     children:
       - title: "Troubleshooting"
