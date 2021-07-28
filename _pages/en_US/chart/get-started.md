@@ -15,4 +15,4 @@ Please select what operating system you have below.
 
 Note that currently at this time only WSL has a guide written for enviorment prep.
 
-  <a href="device-selection-windows.md">Windows (WSL)</a>
+  <a href="device-selection-windows">Windows (WSL)</a>
