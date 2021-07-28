@@ -15,28 +15,18 @@ Please select what operating system you have below.
 
 Note that currently at this time only WSL has a guide written for enviorment prep.
 
-<table class="version_table">
-  <colgroup>
-    <col span="1" style="width: 33%;">
-    <col span="1" style="width: 33%;">
-    <col span="1" style="width: 34%;">
-  </colgroup>
-  <thead>
-    <tr>
-      <a href="device-selection-windows">
+  <a href="chart/device-selection-windows">
   <div>
      Windows (WSL)
   </div>
 </a>
-     <a href="device-selection-macos">
+     <a href="chart/device-selection-macos">
   <div>
      macOS
   </div>
 </a>
-      <a href="device-selection-linux">
+      <a href="chart/device-selection-linux">
   <div>
      Linux
   </div>
 </a>
-  </thead>
-</table>
