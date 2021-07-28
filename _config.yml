@@ -9,14 +9,14 @@ minimal_mistakes_skin    : "nord"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "iOS Guide"
+title                    : "QMK Guide"
 title_separator          : "-"
-name                     : '<a href="https://github.com/emiyl" target="_blank">emiyl</a>'
-description              : "A complete iOS modding guide, from stock to jailbroken."
-url                      : "https://ios.cfw.guide" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-enforce_ssl              : "ios.cfw.guide"
+name                     : '<a href="https://github.com/nqcshady" target="_blank">shady</a>'
+description              : "A complete QMK installtion guide, from stock to RGB & 1000hz."
+url                      : "https://nqcshady.github.io/qmk-guide/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+enforce_ssl              : "nqcshady.github.io/qmk-guide/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "cfw-guide/ios.cfw.guide" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "nqcshady/qmk-guide" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -58,7 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "versusess"
 facebook:
   username               :
   app_id                 :
@@ -73,18 +73,18 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "false" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-86465881-5"
+    tracking_id          : 
 
 
 # Site Author
 author:
-  name             : "emiyl (Emma)"
-  avatar           : "https://avatars1.githubusercontent.com/u/31181801?s=400&u=cfd561b223a087ddd91eed53f00bb19096e64d42&v=4"
-  bio              : "<p>guide writer @ cfw.guide and hacks.guide | she/her</p>"
-  location         : "United Kingdom"
-  email            : "emily@cfw.guide"
+  name             : "nqcshady (Ali)"
+  avatar           : "https://avatars.githubusercontent.com/u/32025056?v=4"
+  bio              : "<p>java stan & shitposter</p>"
+  location         : "United States"
+  email            : "c9shady@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "emiyl"
+  github           : "nqcshady"
   google_plus      :
   keybase          :
   instagram        :
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "emiyl0"
+  twitter          : "versusess"
   vine             :
   weibo            :
   xing             :
