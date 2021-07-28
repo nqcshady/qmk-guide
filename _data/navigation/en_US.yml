@@ -21,16 +21,15 @@ main:
   - title: Credits
     url: credits
 bottom:
-  - title: For support in English, ask for help on the official r/Jailbreak <a href="https://discord.gg/jb" target="_blank">Discord Server</a>.
-  - title: If you appreciate this guide, we accept <a href="/donations">Donations</a>.
+  - title: For support in English, ask for help on the Glorious <a href="https://discord.gg/pRdUuCZYkY" target="_blank">Discord Server</a>.
 footer:
   - label: Source
-    url: https://github.com/cfw-guide/ios.cfw.guide
+    url: https://github.com/nqcshady/qmk-guide
     icon: fab fa-fw fa-github
   - label: Site Navigation
     url: site-navigation
     icon: fas fa-fw fa-globe
-  - label: Credits & Donations
+  - label: Credits
     url: credits
     icon: fas fa-fw fa-users
 
@@ -66,13 +65,11 @@ sidebar:
       - title: "Types of Jailbreak"
         url: /types-of-jailbreak
       - title: "Discord"
-        url: https://discord.gg/jb
+        url: https://discord.gg/pRdUuCZYkY
   - title: "Miscellaneous"
     children:
       - title: "Credits"
         url: /credits
-      - title: "Donations"
-        url: /donations
       - title: "Site Navigation"
         url: /site-navigation
 
@@ -116,12 +113,10 @@ ios1314:
       - title: "Types of Jailbreak"
         url: /types-of-jailbreak
       - title: "Discord"
-        url: https://discord.gg/jb
+        url: https://discord.gg/pRdUuCZYkY
   - title: "Miscellaneous"
     children:
       - title: "Credits"
         url: /credits
-      - title: "Donations"
-        url: /donations
       - title: "Site Navigation"
         url: /site-navigation
