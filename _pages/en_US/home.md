@@ -38,4 +38,4 @@ Before following the steps of this guide, you must know the risks of flashing: E
 Continue to [Get Started](chart)
 {: .notice--info}
 
-<a id="get-started"/>
+<a id="chart"/>
