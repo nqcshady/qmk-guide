@@ -3,10 +3,10 @@ main:
   - title: FAQ
     url: faq
   - title: Troubleshooting
-    url: troubleshooting
+    url: qmk-guide/troubleshooting
  
   - title: Credits
-    url: credits
+    url: qmk-guide/credits
 bottom:
   - title: For support in English, ask for help on the Glorious <a href="https://discord.gg/pRdUuCZYkY" target="_blank">Discord Server</a>.
 footer:
@@ -28,8 +28,6 @@ sidebar:
         url: /troubleshooting
       - title: "FAQ"
         url: /faq
-      - title: "Types of Jailbreak"
-        url: /types-of-jailbreak
       - title: "Discord"
         url: https://discord.gg/pRdUuCZYkY
   - title: "Miscellaneous"
