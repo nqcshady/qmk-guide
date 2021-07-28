@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/qmk.png
   overlay_color: "#1a1d24"
   cta_label: "Get Started"
-  cta_url: "/get-started"
+  cta_url: "/chart"
 ---
 
 Thoroughly read all of the introductory pages (including this one!) before proceeding.
