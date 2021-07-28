@@ -1,7 +1,7 @@
 ---
 title: Get Started
 permalink: /chart
-excerpt: Find out what jailbreaks you can use on your iOS Device
+excerpt: Enviorment Select
 toc: false
 sidebar:
   nav: sidebar
