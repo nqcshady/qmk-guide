@@ -35,7 +35,7 @@ Flashing QMK will not void your warranty, and the Glorious [discord](https://dis
 Before following the steps of this guide, you must know the risks of flashing: Every time you modify your keyboard in any way, there is always a chance that you could brick your board. It is, however, very rare for a pcb to be rendered completely unrecoverable.
 {: .notice--danger}
 
-Continue to [Get Started](get-started/chart)
+Continue to [Get Started](chart)
 {: .notice--info}
 
 <a id="get-started"/>
