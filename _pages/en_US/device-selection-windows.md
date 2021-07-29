@@ -12,7 +12,7 @@ This will require you to be on Version 1903 of Windows 10. If you need to update
 
 1. Open PowerShell with administrator permissions.
 2. Using PowerShell, enable WSL using the following command: `dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart`
-3. Using PowerSheel, enable the Windows Virtual Machine feature using the following command: `dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart`
+3. Using PowerShell, enable the Windows Virtual Machine feature using the following command: `dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart`
 4. Run the WSL updater that you downloaded earlier.
 5. Open the Microsoft Store and install Ubuntu. Any version is fine.
 6. Open the installed distro and setup your username and password. Close it when you are done.
